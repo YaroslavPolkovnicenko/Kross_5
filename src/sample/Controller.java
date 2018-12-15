@@ -281,6 +281,7 @@ public class Controller {
 
         Parent root = loader.getRoot();
         Stage stage = new Stage();
+        stage.setTitle("Добавление");
         stage.setScene(new Scene(root));
         stage.show();
     });
@@ -299,6 +300,7 @@ public class Controller {
 
             Parent root = loader.getRoot();
             Stage stage = new Stage();
+            stage.setTitle("Добавление");
             stage.setScene(new Scene(root));
             stage.show();
         });
@@ -317,6 +319,7 @@ public class Controller {
 
             Parent root = loader.getRoot();
             Stage stage = new Stage();
+            stage.setTitle("Добавление");
             stage.setScene(new Scene(root));
             stage.show();
         });
@@ -335,6 +338,7 @@ public class Controller {
 
         Parent root = loader.getRoot();
         Stage stage = new Stage();
+        stage.setTitle("Удаление");
         stage.setScene(new Scene(root));
         stage.show();
     });
@@ -353,6 +357,7 @@ public class Controller {
 
             Parent root = loader.getRoot();
             Stage stage = new Stage();
+            stage.setTitle("Удаление");
             stage.setScene(new Scene(root));
             stage.show();
         });
@@ -371,6 +376,7 @@ public class Controller {
 
             Parent root = loader.getRoot();
             Stage stage = new Stage();
+            stage.setTitle("Удаление");
             stage.setScene(new Scene(root));
             stage.show();
         });
